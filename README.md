@@ -1,0 +1,1 @@
+This project will consist of creating a cooking recipe website and is designed to exercise HTML5 coding skills and concepts. As of it's completion I will have demonstrated an ability to create absolute and relative links, incorporate images, structure and manipulate text, and manage a project through external instruction and guidance.
